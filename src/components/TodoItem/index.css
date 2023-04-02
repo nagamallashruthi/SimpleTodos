@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.btn {
+  font-family: 'roboto';
+  font-size: 12px;
+  border: 1px solid #ff0b37;
+  height: 30px;
+  width: 100px;
+  color: #ff0b37;
+  background-color: white;
+  border-radius: 5px;
+}
+.para {
+  font-family: 'roboto';
+  font-size: 14px;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
